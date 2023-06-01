@@ -1,1 +1,1 @@
-# SampleRepository
+# Receipt 1
